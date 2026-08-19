@@ -26,3 +26,12 @@ This repository demonstrates collaborative development using GitHub.
 8. Push changes
 9. Create pull request
 10. Review and merge
+## Installation
+
+Clone the repository using:
+
+git clone <repository-url>
+
+Then enter the project directory:
+
+cd githubcollaborationDemo
